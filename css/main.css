@@ -1,0 +1,28 @@
+		body{
+			/*background-image: url('../img/texture.png');*/
+		}
+
+		header{
+			border-bottom: 1px solid #E5E5E5;
+			background-color: whiteSmoke;
+		}
+
+		header .hero-unit{
+			background-color: whiteSmoke;
+			padding-left: 0px;
+		}
+
+		header blockquote{
+			margin-top: 22%;
+		}
+
+		section{
+			padding-top: 30px;
+		}
+
+		footer{
+			padding: 70px 0;
+			margin-top: 70px;
+			border-top: 1px solid #E5E5E5;
+			background-color: whiteSmoke;
+		}
